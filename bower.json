@@ -1,0 +1,17 @@
+{
+    "name": "offside-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/offside-bower.git"
+    },
+    "description": "Offside font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
